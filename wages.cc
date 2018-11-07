@@ -1,7 +1,7 @@
 /*
  *      Author: Nasseef Abukamail
  *   Date: 2018-09-05
- * Description: This program calculates wagtes for a single employee using hours and a hourly rate.
+ * Description: This program calculates wagtes for a single employee using hours and a hourly rate
  */
 
 #include <iostream>
