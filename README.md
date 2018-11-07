@@ -1,4 +1,4 @@
 # wages
-## Created by: Bryce Rohrer
+## Created by: Hunter Burden
 ### Date: October, 31st 2018
 this is a change
